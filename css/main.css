@@ -1,17 +1,11 @@
-
-
-
-
 article {
    margin: 0 auto;
    max-width: 50em;
 }
-
 body {
    font-family: Arial; 
    margin: 20px; 
 }
-
 h1 {
    margin: 0 auto ;
    width: 300px;
@@ -31,15 +25,8 @@ p{
    text-indent: 30px; 
    margin: 1.5em auto; 
 }
-
 img {
    max-width: 100%;
-}
-figure{
-   
-}
-figcaption{
-   
 }
 #social{
    margin: 0 auto; 
@@ -54,4 +41,10 @@ figcaption{
 #social img{
    height: 55px;
    width: 55px;
+}
+.GH{
+   width: 200px;
+   height: 50px; 
+   margin: 0 auto; 
+   float:none;
 }
